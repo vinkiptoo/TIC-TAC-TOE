@@ -1,0 +1,2 @@
+# TIC-TAC-TOE
+Tic Tac Toe is a classic two-player paper-and-pencil game that is often played on a 3x3 grid. The game is also known as "Noughts and Crosses" or "Xs and Os." The players take turns marking an empty cell in the grid with their respective symbols ('X' for the first player and 'O' for the second player). The objective of the game is to be the first player to form a horizontal, vertical, or diagonal line with their symbols.
